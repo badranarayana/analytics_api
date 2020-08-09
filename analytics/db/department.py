@@ -1,0 +1,3 @@
+
+class Department(object):
+    pass

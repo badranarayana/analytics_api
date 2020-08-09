@@ -1,0 +1,4 @@
+
+
+class Objective(object):
+    pass
